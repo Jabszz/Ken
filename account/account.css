@@ -1,0 +1,113 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    }
+
+ 
+
+
+body {
+    background-color: #F3F3F3;
+}
+
+.logo  {
+    font-size:  50px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100px;
+    font-style: normal;
+    margin: 145px;
+    margin-bottom: 0px;
+    display: inline-block;
+}
+
+.in .logo, .border .login{
+
+    display: inline-block;
+}
+
+.border {
+    float: right;
+    margin-top: 150px;
+    margin-right: 190px;
+    border-style: solid;
+    border-color: #BAADAD;
+    padding: 25px;
+    padding-left: 35px;
+    padding-right: 35px;
+
+}
+
+.login {
+    
+    margin-bottom: 40px;
+    text-align: center;
+
+}
+
+.login #em {
+    border: 1px solid #E5DBDB;
+    background-color: #E5DBDB;
+    margin-bottom: 10px;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.login #pw {
+    border: 1px solid #E5DBDB;
+    background-color: #E5DBDB;
+    margin-top: 10px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.login #en {
+    border: 1px solid #68C3E0;
+    background-color: #68C3E0;
+    margin-top: 10px;
+    margin-left: 35px;
+    margin-right: 35px;
+    padding: 10px;
+    
+}
+
+.login #fp {
+    color: crimson;
+    font-size: 10px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+.login #new {
+    border: 1px solid #9FE558;
+    background-color: #9FE558;
+    margin-top: 15px;
+    margin-left: 35px;
+    margin-right: 35px;
+    padding: 10px;
+
+
+}
+
+.etc p {
+    font-size: 30px;
+    margin-left: 150px
+    
+}
+
+.etc  #sh {
+   margin-left: 240px;
+   margin-top: 5px;
+}
+
+
+footer {
+    margin-top: 130px;
+    text-align: center;
+}
+/* asfasfasfs */ 
+
+

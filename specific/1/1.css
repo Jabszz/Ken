@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+links a {
+  text-decoration: none;
+  color: black;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+
+  }
+
+   
+  /* -- Start of Header -- */
+
+header {
+    background-color: #8B7E7E;
+    color: #fff;
+    justify-content: center;
+    padding: 30px;
+    text-align: center;
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  
+  }
+
+  /* -- End of Header -- */
+
+
+  /* -- Start of Body -- */
+
+  body {
+    background-color: #F1E7DE;
+  }
+
+  img {
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 80px;
+    height: 520px;
+    max-width: 380px;
+    float: left;
+    border: solid 1px black;
+  }
+  
+  
+
+  .textbox h2 {
+   margin-top: 10px;
+   margin-left: 100px;
+   font-size: 40px;
+   font-style: normal;
+  }
+
+  .textbox h4 {
+    font-size: 20px;
+  }
+  .wrapper {
+    justify-content: center;
+    margin: 10px auto;
+  }
+
+
+
+  
+  .size {
+    font-size: 25px;
+    margin-bottom: 100px;
+    margin: 3rem 3rem;
+    margin-top: 10px;
+    
+  }
+
+  .size #num1 {
+    height: 30px;
+    width: 30px;
+    border: 1px solid white;
+    background: white;
+  }
+
+  .size #num2 {
+    height: 30px;
+    width: 30px;
+    border: 1px solid white;
+    background: white;
+  }
+
+  .size #num3 {
+    height: 30px;
+    width: 30px;
+    border: 1px solid white;
+    background: white;
+  }
+
+  .size #num4 {
+    height: 30px;
+    width: 30px;
+    border: 1px solid white;
+    background: white;
+  }
+
+  /* -- CART -- */
+
+  .cart {
+    box-sizing: border-box;
+    padding: 10px;
+    padding-top: 0;
+    padding-bottom: 50px;
+    margin-left: 432px;
+    margin-top: 15px;
+    border: 1px black solid;
+    width: 300px;
+    height: 60px;
+    color:white;
+    background: black;
+  }
+
+  .cart h3 {
+
+    padding: 10px;
+    margin:10px;
+    text-align: center;
+    margin-bottom: 50px;
+  }
+
+
+  .description p {
+
+   font-size: 20px;
+
+  }
+  
+  
+  
+
+  

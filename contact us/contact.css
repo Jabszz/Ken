@@ -1,0 +1,153 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    }
+    
+    links {
+     text-decoration: none;
+     color: inherit;
+    
+    }
+    
+    header {
+      background-color: #8B7E7E;
+      color: #fff;
+      justify-content: center;
+      padding: 2px;
+    }
+    
+    .headNav {
+      display: flex;
+      justify-content: space-between;
+      width: 100;
+    }
+    
+      #search {
+        width: 20px;
+        margin-left: 10px;
+      }
+     
+     /* Logo of Web */
+    
+      .logo {
+      text-align: center;
+      font-family: 'Urbanist';
+      font-size: 18px;
+      display: inline;
+      padding: 5px;
+      margin-left: 110px;
+      margin-bottom: 5px;
+    
+    }
+     
+    #cart {
+      width: 40px;
+      height: 40px;
+      float: left;
+      margin-top: 0;
+    }
+    
+    /* Lower Navigation Area (Women, Men, Fashion, etc) */
+    
+    .navbar ul {
+      list-style-type: none;
+      text-align: center;
+      margin-bottom: 2px;
+      
+    }
+    
+    .navbar ul li {
+      display: inline;
+    }
+    
+    .navbar ul li a {
+      color: #fff;
+      text-decoration: none;
+      font-size: 25px;
+      margin-left: 25px;
+      font-style: bold;
+    
+      
+    
+    }
+    
+    .navbar ul li a:hover {
+      background-color: #555;
+    }
+    
+    
+    /* Upper Navigation Area*/
+    
+    
+    .navbars ul {
+      list-style-type: none;
+      text-align: right;
+      
+    
+    }
+    
+    .navbars ul li {
+      display: inline;
+    }
+    
+    .navbars ul li a {
+      color: #fff;
+      text-decoration: none;
+      font-size: 20px;
+      margin-left: 15px;
+     
+    }
+    
+    .navbars ul li a:hover {
+      background-color: #555;
+    }
+    
+    /* End of Header */
+    
+    
+    
+    
+    /* Start of Body */
+    
+    
+    body {
+      background-color: #F1E7DE;
+    }
+    
+    /* Border Box */
+    
+    .box {
+      border: 0.5px solid #F4F1F1;
+      width: 90%;
+      height: 250px;
+      margin-top: 15px;
+      box-sizing: border-box;
+      margin-left: 5%;
+      background-color: #F4F1F1;
+      
+    
+    }
+    
+     
+    
+    .text {
+      font-family: 'Roboto',  bold;
+      font-size: 50px;
+      margin-top: 80px;
+      float: right;
+    }
+    
+    
+    #wave {
+       width: 650px;
+       height: 250px;
+    }
+    
+    
+    /* -- End of Border Box */
+
+    h1 {
+        text-align: center;
+        margin-top: 50px;
+    }
